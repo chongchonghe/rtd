@@ -10,7 +10,7 @@ Welcome to rtd's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-    autodoc
+   autodoc
 
 Indices and tables
 ==================
